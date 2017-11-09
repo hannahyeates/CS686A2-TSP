@@ -1,5 +1,5 @@
 # CS686A1-TSP
-# Hannah Gautreau, 20486960
+# Hannah Gautreau
 
 The purpose of this set of programs is to Tune, and run experiments on the Simulated Annealing Program on the Travelling Salesman Problem. 
 To run all instances of this program, ensure that you have the randTSP folder in the same folder as all of the code.
